@@ -1,0 +1,61 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-image: linear-gradient(45deg, #93a5cf 0%, #e4efe9 100%);
+}
+
+
+.main-container{
+    padding: 4px;
+    margin-top: 60px;
+}
+
+
+.card-img{
+    margin: 0 auto;
+    border-radius: 50%;
+    box-shadow: rgba(red, green, blue, alpha);
+    
+}
+
+
+#skills-hobbies h5{
+ border-radius: 5px;
+ width: fit-content;
+ padding: 10px;
+ margin: 2px 20px;
+ text-align: center;
+ font-style: italic;
+ color: brown;
+ /* background-color: blueviolet; */
+}
+
+nav{
+    background: linear-gradient(-180deg, #BCC5CE 0%, #929EAD 98%), radial-gradient(at top left, rgba(255,255,255,0.30) 0%, rgba(0,0,0,0.30) 100%);
+    background-blend-mode: screen;
+}
+
+footer{
+    background-image: linear-gradient(to top, #87878e 0%, #6a656c 49%, #585560 100%);
+}
+
+li{
+list-style-type: none;
+}
+
+
+form{
+ width: 450px;
+ margin: 10px auto;
+ background-image: linear-gradient(to top, #fddb92 0%, #d1fdff 100%);
+ padding: 10px;
+ border-radius: 10px;
+ box-shadow: rgb(red, green, blue);
+}
+
+label{
+    margin-left: 10px;
+}
